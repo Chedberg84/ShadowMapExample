@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowMapExample", "ShadowMapExample\ShadowMapExample.csproj", "{CBAFB188-0850-4F4F-A072-A1A77DE3ABCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAFB188-0850-4F4F-A072-A1A77DE3ABCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAFB188-0850-4F4F-A072-A1A77DE3ABCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAFB188-0850-4F4F-A072-A1A77DE3ABCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAFB188-0850-4F4F-A072-A1A77DE3ABCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
